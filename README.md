@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **100 Days of code**
 
-- 🌱 I’m currently improving my skills in **Flutter, Linux**
+- 🌱 I’m currently improving my skills in **Python, Linux**
 
 - 📝 I regularly write articles on [https://leonardwarda.com/](https://leonardwarda.com/)
 
