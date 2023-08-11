@@ -6,7 +6,6 @@
 
 - 🌱 I’m currently improving my skills in **Python, Linux**
 
-- 📝 I regularly write articles on [https://leonardwarda.com/](https://leonardwarda.com/)
 
 - 💬 Ask me about **discord.py**
 
